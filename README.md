@@ -1,4 +1,4 @@
-# dio-meu-primeiro-desafio
+# Desafio de Projeto sobre Git/Github da DIO
 Criando meu primeiro repositório para o Desafio de Projeto
 
 ## Links Úteis
